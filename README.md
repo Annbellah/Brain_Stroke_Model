@@ -38,7 +38,7 @@ I have decided to use Recall as the evaluation metric for this project. Recall i
 ---
 Next, I took a look at feature importance, to get a better idea what features contributed to people having a stroke.
 
- ![alt text](image.png)
+ ![alt text](image-1.png)
 
 # Logistic Regression
 
